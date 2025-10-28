@@ -5,3 +5,11 @@ It’s not a full game yet, but rather a learning experiment to explore how Pyga
 
 # How to execute:
 # Open "main.py" and run it to see how this mini-project works.
+
+
+# requirements:
+Python 3.13.8
+pygame-ce 2.5.5
+
+# These are the versions I used to code the project.
+# The project may also work with earlier versions due to its simplicity.
