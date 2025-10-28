@@ -1,0 +1,6 @@
+# Requirements:
+Python 3.13.8
+pygame-ce 2.5.5
+
+# These are the versions I used to code the project.
+# The project may also work with earlier versions due to its simplicity.
